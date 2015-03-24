@@ -1,2 +1,0 @@
-/usr/bin/ar cq libfp_growth.a  CMakeFiles/fp_growth.dir/fptree.cpp.o
-/usr/bin/ranlib libfp_growth.a
